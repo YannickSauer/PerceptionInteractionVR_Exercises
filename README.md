@@ -1,4 +1,4 @@
-# PerceptionInteractionVR_Exercises
+# Perception and Interaction in VR - Exercises
 Exercises for the Lecture Perception and Interaction in Virtual Reality
 
 [UnityExercises](./UnityExercises/) is the Unity project with scenes for all exercises. We will add the solutions to the previous exercises there, give us some time...
