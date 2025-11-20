@@ -12,3 +12,4 @@ Exercises for the Lecture Perception and Interaction in Virtual Reality
 | 2 | First Steps in VR ||
 | 3 | Visual Acuity Measurement | [📦 Open](./UnityPackages/Exercise3.unitypackage) |
 | 4 | Depth Perception | [Dowload ./UnityExercises_BIRP as zip](https://downgit.github.io/#/home?url=https://github.com/YannickSauer/PerceptionInteractionVR_Exercises/tree/main/UnityExercises_BIRP)|
+| 5 | 2D Scanpath | Download link for measurement data will be posted here|
